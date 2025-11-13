@@ -66,4 +66,6 @@ keywords={Blind deblurring;curriculum learning;scale-iterative;upscaling network
 doi={10.1109/ACCESS.2020.2967823},
 ISSN={2169-3536},
 month={},}
-```
+```![Imagen de WhatsApp 2025-11-13 a las 12 37 49_d67944c2](https://github.com/user-attachments/assets/9aafc4fc-3a68-4238-8031-cae71aa00f7b
+)
+
